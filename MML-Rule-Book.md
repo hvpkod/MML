@@ -1,7 +1,5 @@
 # MML RULEBOOK
 
----
-
 ## I. GENERAL INFO
 
 ### A. Entry Fee
