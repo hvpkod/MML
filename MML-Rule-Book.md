@@ -17,9 +17,9 @@ in a -15 point penalty each week not paid.
 
 The top 2 finishers receive payouts as well as the winner of regular season net proceeds (12 x 250)
 
-1^st^ Place: **1500kr.** with custody of the MML trophy until next season
+1st Place: **1500kr.** with custody of the MML trophy until next season
 
-2^nd^ Place: **750kr.**
+2nd Place: **750kr.**
 
 Winner of regular season: **750kr.**
 
@@ -49,7 +49,7 @@ You draft your player and the picks carry on until you get to the very last team
 Team #12 will now have the 13th pick (or 1st pick of round 2) and you will have to wait till last pick of round 2 to make your 2nd player selection.
 ```
 
-The MML will have 23 rounds that should be drafted.
+The MML drafts 23 rounds.
 
 ### B. Draft Rules
 
@@ -73,7 +73,7 @@ The MML will have 23 rounds that should be drafted.
   fall under the same rules as listed below (see section III-A, and
   section IV-A-Trade Vetoes).
 
-- TDD weeks before the planned draft date should the maximum number of five (5) keepers be communicated to be selectable for final 3 keepers.
+- TBD weeks before the planned draft date should the maximum number of five (5) keepers be communicated to be selectable for final 3 keepers.
 
 - The evening before the draft should the final 3 keepers be selected with draft value.
 
@@ -103,7 +103,7 @@ inactivity. The MML strongly encourages active participation throughout
 the season. If you are unable to participate in a league activity due to
 extenuating circumstances, please advise the Commissioner in advance.
 
-### C Owner Impeachment
+### C. Owner Impeachment
 
 **Three** or more owners can call a vote for impeachment on any other
 owner during the **off-season only**. The reason(s) for impeachment will
@@ -120,15 +120,17 @@ matter the polls will be open no longer than 1 week (7 days).
 
 ### A. Trading
 
-- Things to trade\*\*: Players, draft picks, unspent FAAB and waiver positions can be traded.
+- Things to trade: Players, draft picks, unspent FAAB and waiver positions can be traded.
 
 - Player Trade-back policy: 6 Week Minimum for any player to be traded back.
 
 - Trade Deadline: TBD but before playoffs.
 
-- Trade Vetoes: The Commissioner will decide whether all other owner trades, not including their own trade,is worthy of being vetoed. In the case that a trade involves the Commissioner, any owner who thinks that the trade the commissioner made is suspicious, "stinks of collusion", and/or is unfair to the integrity of the league must find the support of at least 3 other owners (4 total) and they must all announce their call to veto to the entire league then the rules in _section III-A_ (above) will be invoked. Owners have 48 hours to call a vote to veto a trade involving the Commissioner.  Failure to request a veto vote within this applicable time limit means the trade is final.
-
 - Friendly wagers: Friendly wagers will be allowed as long as they do not compromise the balance of the league and the majority of owners in the league don’t disapprove of the owner’s actions.
+
+**Trade Vetoes:** The Commissioner will decide whether all other owner trades, not including their own trade,is worthy of being vetoed. In the case that a trade involves the Commissioner, any owner who thinks that the trade the commissioner made is suspicious, "stinks of collusion", and/or is unfair to the integrity of the league must find the support of at least 3 other owners (4 total) and they must all announce their call to veto to the entire league then the rules in _section III-A_ (above) will be invoked.
+
+Owners have 48 hours to call a vote to veto a trade involving the Commissioner.  Failure to request a veto vote within this applicable time limit means the trade is final.
 
 ### B. Free Agency
 
@@ -139,7 +141,11 @@ matter the polls will be open no longer than 1 week (7 days).
 - Waiver wire abuse: Adding and dropping players for the sake of locking them into the waiver wire is a form of waiver wire abuse. If it’s deemed the case, an owner who wished to take a player off the waiver but was prevented from doing so can request the waiver claim to the commissioner. The owner who abused the waiver wire will have their waiver access suspended for one week (or more based on the severity of the abuse).
 
 - Process: The MML uses FAAB to bid for players that are electable (not owned by a team) where the highest bidder will win the player. The team need to have an open roster spot for the player or choose what player that should be dropped if the bid wins. In case of same value bid will the team with the highest order waiver order win.
-- FAAB value: The MML will start with 100 FAABs (aka foreskins). 0 FAAB-value bids are allowed.
+
+- FAAB value: The MML will start with 100 FAABs (aka foreskins).
+  - FAAB-value bids of 0 (zero) are allowed.
+  - FAABs can be used as part of trades.
+  - Unspent FAABs will be lost not be transferred to the next season.
 
 ## V. LINEUPS
 
@@ -149,7 +155,7 @@ matter the polls will be open no longer than 1 week (7 days).
 
 - Failure to replace a prior starter locks them into your starting lineup and will make you eligible for a TBI (see section XIII-A).
 
-### C. Roster Size
+### B. Roster Size
 
 ```
 1 – Quarterback
@@ -207,7 +213,7 @@ exceptions:
 _See the league’s settings on the NFL.com website for more detailed
 information_ <http://tmml.league.fantasy.nfl.com/league/1014629/settings>
 
-## VII. REGUALAR SEASON
+## VII. REGULAR SEASON
 
 ### A. Rivalry Week
 
@@ -218,21 +224,21 @@ information_ <http://tmml.league.fantasy.nfl.com/league/1014629/settings>
 
 - **Week 12**
 
-  - 1^st^ place will play against 2^nd^ place.
-  - 3^rd^ place will play against 4^th^.
-  - 5^th^ place will play against 6^th^ place.
-  - 7^th^ place will play against 8^th^ place.
-  - 9^th^ place will play against 10^th^ place.
-  - 11^th^ place will play against 12^th^ place.
+  - 1st place will play against 2nd place.
+  - 3rd place will play against 4th.
+  - 5th place will play against 6th place.
+  - 7th place will play against 8th place.
+  - 9th place will play against 10th place.
+  - 11th place will play against 12th place.
 
 - **Week 13**
 
-  - 1^st^ place will play against 12^th^ place.
-  - 2^nd^ place will play against 11^th^ place.
-  - 3^rd^ place will play against 10^th^ place.
-  - 4^th^ place will play against 9^th^ place.
-  - 5^th^ place will play against 8^th^ place.
-  - 6^th^ place will play against 7^th^ place.
+  - 1st place will play against 12th place.
+  - 2nd place will play against 11th place.
+  - 3rd place will play against 10th place.
+  - 4th place will play against 9th place.
+  - 5th place will play against 8th place.
+  - 6th place will play against 7th place.
 
 The playoffs take place during Weeks 14-16 of the NFL season.
 
@@ -241,8 +247,9 @@ The playoffs take place during Weeks 14-16 of the NFL season.
 In the event that an owner drops from the league, the commissioner will
 maintain the ownerless team during the season. If the commissioner’s
 team faces the ownerless team in a head-to-head match, the league’s
-leading ‘Points For’ will decide the ownerless teams starting lineup. A
-new owner will be brought in to the league to take over as GM for the
+leading ‘Points For’ will decide the ownerless teams starting lineup.
+
+A new owner will be brought in to the league to take over as GM for the
 ownerless team as soon as possible. _Same rules apply during the off
 season, including owner impeachment (See section III- C)._
 
@@ -270,13 +277,13 @@ season, including owner impeachment (See section III- C)._
 
 - **Playoff Weeks:** The playoffs take place during Weeks 14-16 of the NFL season.
 
-- **Playoff Structure**: Week 14 matches will be 3^rd^ versus 6^th^, and 4^th^ versus 5^th^ with 1^st^ and 2^nd^ on a bye week. Week 15 matches will be 1^st^ versus the winner of 4^th^ versus 5^th^ game, and 2^nd^ versus the winner of the 3^rd^ versus 6^th^ game.
+- **Playoff Structure**: Week 14 matches will be 3rd versus 6th, and 4th versus 5th with 1st and 2nd on a bye week. Week 15 matches will be 1st versus the winner of 4th versus 5th game, and 2nd versus the winner of the 3rd versus 6th game.
 
-- **Championship Week:** The games played in Week 16 determine for prize payouts. The MML Champion receives MML trophy, and 1^st^ place winnings. 2^nd^ and winner of regular season receive their winnings as well. Last place receives Matt’s Molestation Trophy.
+- **Championship Week:** The games played in Week 16 determine for prize payouts. The MML Champion receives MML trophy, and 1st place winnings. 2nd and winner of regular season receive their winnings as well. Last place receives Matt’s Molestation Trophy.
 
 ## IX. OFF-SEASON
 
-A. **NFL.com and Keepers**
+**A. NFL.com and Keepers**
 
 - Owners must manually set all their keepers.
 
@@ -288,6 +295,23 @@ A. **NFL.com and Keepers**
 
   - The players kept by each owner will be announced once the
     deadline is reached.
+
+**B. MML Board**
+
+To be able to run the league as smooth and fair as possible and keep people engaged are MML having a board that handles parts of the leagues business. The positions are nominated for and voted in by all of the members of the league.
+
+There are 3 branches in the league board and you can choose to be a part of any position, but you can only be involved in one branch once all the voting is complete.
+
+Positions:
+
+- Content Crew (2 people)
+  The two people on content will be responsible for creating in-season, weekly content for the league to enjoy/hate. Examples of content are the weekly articles from a few seasons ago, or a podcast from last season.
+- Party/Activity Planning (2 people)
+  The two people on party/activity planning will be responsible for planning and setting up events such as the draft + the draft challenge, get togethers/party, or other social events for the league.
+- The Law (1 person)
+  The person who proposes a new rule book to the league for the next season and person who enforces the rules and punishment. The rules proposed by this person will be voted on by the rest of the board. If no new rules are approved last seasons rules will carry over.
+
+The league also has a commissioner that has the dividing vote when needed and the final word along with the administrative powers on the platform. The role as commissioner is, when changed, voted on separately and will always be part of the board.
 
 ## X. SCORING SYSTEM
 
@@ -361,15 +385,7 @@ NFL.com). Five TBI's in one season will immediately start a vote for
 impeachment (9 out of 11 to impeach) against the owner who received 5
 TBI's (Article III.C \*doesn't have to be the off-season).
 
-### B. Eastern Comfort
-
-Awarded weekly to the losing team with the most points on their bench
-(renamed “Poor Decisions” award). If a team receives (3) Eastern
-Comforts in a season, the team owner must take (3) shots (40ml x 3) of
-Jägermeister mixed with Southern Comfort (video proof will be accepted).
-The owner will receive -15 points for every week they go without
-providing proof to the Commissioner. _Videos will be uploaded to the
-league Facebook group if sent in a private message to the Commissioner._
+If the TBI happens in a game that are past midnight will the rule not be applicable (we all try to have a real life outside of fantasy)
 
 ## XII. KEEPER RULES
 
