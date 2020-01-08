@@ -343,7 +343,7 @@ A. **NFL.com and Keepers**
 
 ## XI. CUSTOM LEAGUE AWARDS
 
-### A. \*\*The Bloody Indian (TBI)
+### A. The Bloody Indian (TBI)
 
 An owner that plays an injured/inactive/bye player in their starting
 lineup will be given a TBI. The owner who received the TBI, will receive
