@@ -345,9 +345,9 @@ The league also has a commissioner that has the dividing vote when needed and th
 
 ### IDP
 
-    Tackle: 1.5 points
+    Tackle: 1.7 points
     Assisted Tackles: 0.8 points
-    Sack: 1.5 points
+    Sack: 2.0 points
     Defense Interception: 3.5 points
     Forced Fumble: 3.5 points
     Fumbles Recovery: 1 point
