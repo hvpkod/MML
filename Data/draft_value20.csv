@@ -27,7 +27,7 @@ Pick,Round,PlayerName,Pos/Team,WasKepper,KeeperValue
 26,3,Raheem Mostert,RB - SF,No,3
 27,3,Amari Cooper,WR - DAL,Yes,1
 28,3,Jonathan Taylor,RB - IND,No,3
-29,3,Mark Ingram,RB - BAL,No,3
+29,3,Mark Ingram,RB - BAL,Yes,1
 30,3,T.Y. Hilton,WR - IND,No,3
 31,3,Kenny Golladay,WR - DET,Yes,1
 32,3,Le'Veon Bell,RB - KC,No,3
@@ -255,7 +255,7 @@ Pick,Round,PlayerName,Pos/Team,WasKepper,KeeperValue
 254,22,Trey Flowers,DL - DET,No,22
 255,22,Everson Griffen,DL - DET,No,22
 256,22,Jake Elliott,K - PHI,No,22
-257,22,D.J. Chark,WR - JAX,No,22
+257,22,D.J. Chark,WR - JAX,Yes,11
 258,22,Giovani Bernard,RB - CIN,No,22
 259,22,Jack Doyle,TE - IND,No,22
 260,22,James Washington,WR - PIT,No,22
