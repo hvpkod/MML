@@ -1,0 +1,277 @@
+id,round,lastName,firstName,position,team,keeper,keeperVale
+66941,1,Harris,Najee,RB,Pittsburgh Steelers,False,1
+22411,1,Kelce,Travis,TE,Kansas City Chiefs,False,1
+63611,1,Edwards-Helaire,Clyde,RB,Kansas City Chiefs,False,1
+46580,1,Henry,Derrick,RB,Tennessee Titans,True,1
+31912,1,Cook,Dalvin,RB,Minnesota Vikings,True,1
+31429,1,Carson,Chris,RB,Seattle Seahawks,False,1
+46309,1,Edwards,Gus,RB,Baltimore Ravens,False,1
+32828,1,Hill,Tyreek,WR,Miami Dolphins,True,1
+47382,1,Barkley,Saquon,RB,New York Giants,True,1
+32026,1,Mixon,Joe,RB,Cincinnati Bengals,True,1
+54623,1,Sanders,Miles,RB,Philadelphia Eagles,False,1
+24201,1,McCaffrey,Christian,RB,Carolina Panthers,True,1
+47370,2,Allen,Keenan,WR,Los Angeles Chargers,False,2
+56553,2,Jacobs,Josh,RB,Las Vegas Raiders,False,2
+46466,2,Hopkins,DeAndre,WR,Arizona Cardinals,True,1
+47377,2,Elliott,Ezekiel,RB,Dallas Cowboys,True,1
+46920,2,Robinson II,Allen,WR,Los Angeles Rams,False,2
+31553,2,Mahomes,Patrick,QB,Kansas City Chiefs,False,2
+66990,2,Williams,Javonte,RB,Denver Broncos,False,2
+24272,2,Kamara,Alvin,RB,New Orleans Saints,True,1
+47401,2,Adams,Davante,WR,Las Vegas Raiders,True,1
+47416,2,Evans,Mike,WR,Tampa Bay Buccaneers,False,2
+56981,2,Jones,Aaron,RB,Green Bay Packers,True,1
+2898,2,Woods,Robert,WR,Tennessee Titans,False,2
+47295,3,Lockett,Tyler,WR,Seattle Seahawks,False,3
+46685,3,Ekeler,Austin,RB,Los Angeles Chargers,True,1
+63729,3,Taylor,Jonathan,RB,Indianapolis Colts,True,1
+54596,3,Harris,Damien,RB,New England Patriots,False,3
+36340,3,Edmonds,Chase,RB,Miami Dolphins,False,3
+54601,3,Montgomery,David,RB,Chicago Bears,True,1
+47378,3,Cooper,Amari,WR,Cleveland Browns,False,3
+56036,3,Hunt,Kareem,RB,Cleveland Browns,False,3
+36217,3,Ridley,Calvin,WR,Atlanta Falcons,True,1
+36272,3,Chubb,Nick,RB,Cleveland Browns,True,1
+66957,3,Pitts,Kyle,TE,Atlanta Falcons,False,3
+36195,3,Allen,Josh,QB,Buffalo Bills,False,3
+58603,4,Johnson,Diontae,WR,Pittsburgh Steelers,False,4
+57331,4,Murray,Kyler,QB,Arizona Cardinals,False,4
+32339,4,Godwin,Chris,WR,Tampa Bay Buccaneers,False,4
+57445,4,Mostert,Raheem,RB,Miami Dolphins,False,4
+63835,4,Gibson,Antonio,RB,Washington Redskins,True,2
+63851,4,Swift,D&#39;Andre,RB,Detroit Lions,True,2
+47419,4,Kittle,George,TE,San Francisco 49ers,True,2
+36218,4,Moore,DJ,WR,Carolina Panthers,False,4
+36267,4,Andrews,Mark,TE,Baltimore Ravens,True,2
+47030,4,Diggs,Stefon,WR,Buffalo Bills,True,2
+57401,4,Kupp,Cooper,WR,Los Angeles Rams,False,4
+56930,4,Thomas,Logan,TE,Washington Redskins,False,4
+47376,5,Prescott,Dak,QB,Dallas Cowboys,False,5
+63707,5,Claypool,Chase,WR,Pittsburgh Steelers,False,5
+63610,5,Jeudy,Jerry,WR,Denver Broncos,False,5
+47402,5,Thielen,Adam,WR,Minnesota Vikings,False,5
+36211,5,Jackson,Lamar,QB,Baltimore Ravens,False,5
+54683,5,Metcalf,DK,WR,Seattle Seahawks,True,2
+47369,5,Gordon III,Melvin,RB,Denver Broncos,False,5
+1828,5,Jones,Julio,WR,Tennessee Titans,False,5
+56038,5,Beckham Jr.,Odell,WR,Los Angeles Rams,False,5
+56927,5,Hockenson,T.J.,TE,Detroit Lions,False,5
+67034,5,Sermon,Trey,RB,San Francisco 49ers,False,5
+66939,5,Chase,Ja&#39;Marr,WR,Cincinnati Bengals,False,5
+67054,6,Carter,Michael,RB,New York Jets,False,6
+36283,6,Jones II,Ronald,RB,Kansas City Chiefs,False,6
+47346,6,Conner,James,RB,Arizona Cardinals,False,6
+46950,6,Golladay,Kenny,WR,New York Giants,False,6
+56383,6,Fant,Noah,TE,Seattle Seahawks,False,6
+36234,6,Goedert,Dallas,TE,Philadelphia Eagles,False,6
+66951,6,Smith,DeVonta,WR,Philadelphia Eagles,False,6
+59912,6,Tonyan,Robert,TE,Green Bay Packers,False,6
+59294,6,Leonard,Darius,LB,Indianapolis Colts,False,6
+63744,6,Shenault Jr.,Laviska,WR,Jacksonville Jaguars,False,6
+36198,6,Michel,Sony,RB,Miami Dolphins,False,6
+57312,6,White,Devin,LB,Tampa Bay Buccaneers,False,6
+56889,7,Smith,Roquan,LB,Chicago Bears,False,7
+57550,7,Wagner,Bobby,LB,Los Angeles Rams,False,7
+46988,7,Williams,Jamaal,RB,Detroit Lions,False,7
+59941,7,Martinez,Blake,LB,New York Giants,False,7
+36250,7,Sutton,Courtland,WR,Denver Broncos,False,7
+36246,7,Warner,Fred,LB,San Francisco 49ers,False,7
+60236,7,Baker,Budda,DB,Arizona Cardinals,False,7
+18187,7,Schobert,Joe,LB,Pittsburgh Steelers,False,7
+47347,7,Smith-Schuster,JuJu,WR,Kansas City Chiefs,False,7
+46345,7,Boyd,Tyler,WR,Cincinnati Bengals,False,7
+59247,7,Cunningham,Zach,LB,Tennessee Titans,False,7
+59559,7,Waller,Darren,TE,Las Vegas Raiders,True,3
+59136,8,Garrett,Myles,DL,Cleveland Browns,False,8
+63619,8,Young,Chase,DL,Washington Redskins,False,8
+63604,8,Queen,Patrick,LB,Baltimore Ravens,False,8
+47421,8,Wilson,Russell,QB,Denver Broncos,False,8
+63634,8,Moss,Zack,RB,Buffalo Bills,False,8
+59002,8,Adams,Jamal,DB,Seattle Seahawks,False,8
+55719,8,Edmunds,Tremaine,LB,Buffalo Bills,False,8
+54603,8,Singletary,Devin,RB,Buffalo Bills,False,8
+2856,8,Poyer,Jordan,DB,Buffalo Bills,False,8
+47221,8,Higbee,Tyler,TE,Los Angeles Rams,False,8
+7613,8,Cooks,Brandin,WR,Houston Texans,False,8
+59530,8,Bosa,Joey,LB,Los Angeles Chargers,False,8
+67144,9,Rountree III,Larry,RB,Los Angeles Chargers,False,9
+63731,9,Pittman Jr.,Michael,WR,Indianapolis Colts,False,9
+48153,9,Lindsay,Phillip,RB,Indianapolis Colts,False,9
+1746,9,Brown,Antonio,WR,Tampa Bay Buccaneers,False,9
+66932,9,Waddle,Jaylen,WR,Miami Dolphins,False,9
+64165,9,Callaway,Marquez,WR,New Orleans Saints,False,9
+47400,9,Rodgers,Aaron,QB,Green Bay Packers,False,9
+56163,9,Fuller V,William,WR,Miami Dolphins,False,9
+60007,9,Kendricks,Eric,LB,Minnesota Vikings,False,9
+63896,9,Chinn,Jeremy,DB,Carolina Panthers,False,9
+63616,9,Lamb,CeeDee,WR,Dallas Cowboys,True,4
+56541,9,James Jr.,Derwin,DB,Los Angeles Chargers,False,9
+57184,10,Burns,Brian,DL,Carolina Panthers,False,10
+54696,10,Meyers,Jakobi,WR,New England Patriots,False,10
+57473,10,Bosa,Nick,DL,San Francisco 49ers,False,10
+60178,10,David,Lavonte,LB,Tampa Bay Buccaneers,False,10
+60258,10,Donald,Aaron,DL,Los Angeles Rams,False,10
+46543,10,Chark,DJ,WR,Detroit Lions,False,10
+17934,10,Thomas,Michael,WR,New Orleans Saints,False,10
+56133,10,Bush,Devin,LB,Pittsburgh Steelers,False,10
+63614,10,Herbert,Justin,QB,Los Angeles Chargers,False,10
+31082,10,Tannehill,Ryan,QB,Tennessee Titans,False,10
+57243,10,Jordan,Cameron,DL,New Orleans Saints,False,10
+36271,10,Bates III,Jessie,DB,Cincinnati Bengals,False,10
+59990,11,Hunter,Danielle,DL,Minnesota Vikings,False,11
+451,11,Brady,Tom,QB,Tampa Bay Buccaneers,False,11
+24492,11,Brown,Jayon,LB,Las Vegas Raiders,False,11
+63859,11,Dillon,AJ,RB,Green Bay Packers,False,11
+54723,11,McLaurin,Terry,WR,Washington Redskins,True,5
+31782,11,Stafford,Matthew,QB,Los Angeles Rams,False,11
+56820,11,Sweat,Montez,DL,Washington Redskins,False,11
+60048,11,Jones,Deion,LB,Atlanta Falcons,False,11
+66972,11,Moore,Elijah,WR,New York Jets,False,11
+63812,11,Hurts,Jalen,QB,Philadelphia Eagles,False,11
+54674,11,Brown,A.J.,WR,Philadelphia Eagles,True,5
+56191,11,Watt,J.J.,DL,Arizona Cardinals,False,11
+17906,12,Simmons,Justin,DB,Denver Broncos,False,12
+63615,12,Murray Jr.,Kenneth,LB,Los Angeles Chargers,False,12
+32234,12,Samuel,Curtis,WR,Washington Redskins,False,12
+55753,12,Gesicki,Mike,TE,Miami Dolphins,False,12
+36447,12,Hines,Nyheim,RB,Indianapolis Colts,False,12
+59625,12,Lawrence,DeMarcus,DL,Dallas Cowboys,False,12
+47342,12,Landry,Jarvis,WR,New Orleans Saints,False,12
+59342,12,Jack,Myles,LB,Pittsburgh Steelers,False,12
+24198,12,Peppers,Jabrill,DB,New England Patriots,False,12
+24337,12,Johnson III,John,DB,Cleveland Browns,False,12
+63629,12,Aiyuk,Brandon,WR,San Francisco 49ers,True,6
+56921,12,Jones Jr.,Marvin,WR,Jacksonville Jaguars,False,12
+55928,13,Brown,Marquise,WR,Arizona Cardinals,False,13
+57251,13,Davis,Demario,LB,New Orleans Saints,False,13
+63622,13,Jefferson,Justin,WR,Minnesota Vikings,True,6
+46201,13,Drake,Kenyan,RB,Las Vegas Raiders,False,13
+60297,13,Buckner,DeForest,DL,Indianapolis Colts,False,13
+17935,13,Bell,Vonn,DB,Cincinnati Bengals,False,13
+46840,13,Agholor,Nelson,WR,New England Patriots,False,13
+60020,13,Smith,Harrison,DB,Minnesota Vikings,False,13
+59792,13,Collins,Landon,DB,Washington Redskins,False,13
+66962,13,Lance,Trey,QB,San Francisco 49ers,False,13
+54687,13,Samuel,Deebo,WR,San Francisco 49ers,True,6
+46690,13,Williams,Mike,WR,Los Angeles Chargers,False,13
+56381,14,Sanders,Emmanuel,WR,Buffalo Bills,False,14
+55898,14,Williams,Quinnen,DL,New York Jets,False,14
+36229,14,Gallup,Michael,WR,Dallas Cowboys,False,14
+36263,14,Walker III,Tracy,DB,Detroit Lions,False,14
+46205,14,Parker,DeVante,WR,New England Patriots,False,14
+36428,14,Oluokun,Foyesade,LB,Jacksonville Jaguars,False,14
+66949,14,Parsons,Micah,LB,Dallas Cowboys,False,14
+24194,14,Humphrey,Marlon,DB,Baltimore Ravens,False,14
+1765,14,Heyward,Cameron,DL,Pittsburgh Steelers,False,14
+66952,14,Davis,Jamin,LB,Washington Redskins,False,14
+63842,14,Mooney,Darnell,WR,Chicago Bears,False,14
+56325,14,Smith,Jonnu,TE,New England Patriots,False,14
+63689,15,Higgins,Tee,WR,Cincinnati Bengals,True,7
+47175,15,Johnson,David,RB,Houston Texans,False,15
+66943,15,Lawrence,Trevor,QB,Jacksonville Jaguars,False,15
+108,15,Pierre-Paul,Jason,LB,Tampa Bay Buccaneers,False,15
+63841,15,Curl,Kamren,DB,Washington Redskins,False,15
+63910,15,Winfield Jr.,Antoine,DB,Tampa Bay Buccaneers,False,15
+36239,15,Baker,Jerome,LB,Miami Dolphins,False,15
+46538,15,Fournette,Leonard,RB,Tampa Bay Buccaneers,False,15
+59478,15,Jones,Chris,DL,Kansas City Chiefs,False,15
+67031,15,Moore,Rondale,WR,Arizona Cardinals,False,15
+58713,15,Rapp,Taylor,DB,Los Angeles Rams,False,15
+58994,15,Mosley,C.J.,LB,New York Jets,False,15
+54712,16,Hardman,Mecole,WR,Kansas City Chiefs,False,16
+63811,16,McKinney,Xavier,DB,New York Giants,False,16
+66961,16,Collins,Zaven,LB,Arizona Cardinals,False,16
+11801,16,Williams,Leonard,DL,New York Giants,False,16
+67170,16,Gainwell,Kenneth,RB,Philadelphia Eagles,False,16
+54635,16,Pollard,Tony,RB,Dallas Cowboys,False,16
+60330,16,McKissic,J.D.,RB,Washington Redskins,False,16
+63612,16,Ruggs III,Henry,WR,Las Vegas Raiders,False,16
+473,16,Gronkowski,Rob,TE,Tampa Bay Buccaneers,False,16
+17942,16,Ngakoue,Yannick,DL,Indianapolis Colts,False,16
+36269,16,Hubbard,Sam,DL,Cincinnati Bengals,False,16
+54598,16,Henderson Jr.,Darrell,RB,Los Angeles Rams,True,8
+59395,17,Byard,Kevin,DB,Tennessee Titans,False,17
+60028,17,Gage,Russell,WR,Tampa Bay Buccaneers,False,17
+11975,17,Amos,Adrian,DB,Green Bay Packers,False,17
+30803,17,Beasley,Cole,WR,Buffalo Bills,False,17
+47375,17,Cook,Jared,TE,Los Angeles Chargers,False,17
+66953,17,Fields,Justin,QB,Chicago Bears,False,17
+36197,17,Fitzpatrick,Minkah,DB,Pittsburgh Steelers,False,17
+56602,17,Abram,Johnathan,DB,Las Vegas Raiders,False,17
+54588,17,Mattison,Alexander,RB,Minnesota Vikings,False,17
+63975,17,Williams,Ty&#39;Son,RB,Indianapolis Colts,False,17
+67024,17,Marshall Jr.,Terrace,WR,Carolina Panthers,False,17
+66937,17,Bateman,Rashod,WR,Baltimore Ravens,False,17
+67049,18,Stevenson,Rhamondre,RB,New England Patriots,False,18
+67232,18,Hubbard,Chuba,RB,Carolina Panthers,False,18
+2978,18,Ryan,Logan,DB,Tampa Bay Buccaneers,False,18
+7712,18,White,James,RB,New England Patriots,False,18
+24185,18,Reddick,Haason,LB,Philadelphia Eagles,False,18
+55979,18,Green,A.J.,WR,Arizona Cardinals,False,18
+24273,18,Hendrickson,Trey,DL,Cincinnati Bengals,False,18
+12016,18,Jarrett,Grady,DL,Atlanta Falcons,False,18
+46807,18,Shepard,Sterling,WR,New York Giants,False,18
+55998,18,Dunlap II,Carlos,LB,Seattle Seahawks,False,18
+63781,18,Edwards,Bryan,WR,Atlanta Falcons,False,18
+46264,18,Anderson,Robbie,WR,Carolina Panthers,True,9
+191,19,Cox,Fletcher,DL,Philadelphia Eagles,False,19
+47055,19,Coleman,Tevin,RB,New York Jets,False,19
+46585,19,Firkser,Anthony,TE,Atlanta Falcons,False,19
+24181,19,Allen,Jonathan,DL,Washington Redskins,False,19
+66944,19,Etienne Jr.,Travis,RB,Jacksonville Jaguars,False,19
+63635,19,Davis,Gabriel,WR,Buffalo Bills,False,19
+59506,19,Mathieu,Tyrann,DB,New Orleans Saints,False,19
+54715,19,Campbell,Parris,WR,Indianapolis Colts,False,19
+32013,19,Tucker,Justin,PK,Baltimore Ravens,False,19
+46766,19,Jarwin,Blake,TE,Dallas Cowboys,False,19
+63900,19,Trautman,Adam,TE,New Orleans Saints,False,19
+67196,19,St. Brown,Amon-Ra,WR,Detroit Lions,False,19
+56440,20,Williams,Darrel,RB,Arizona Cardinals,False,20
+63817,20,Watkins,Quez,WR,Philadelphia Eagles,False,20
+3226,20,Murray,Latavius,RB,Baltimore Ravens,False,20
+56507,20,Henry,Hunter,TE,New England Patriots,False,20
+63919,20,Akers,Cam,RB,Los Angeles Rams,False,20
+63843,20,Kmet,Cole,TE,Chicago Bears,False,20
+58645,20,Crosby,Maxx,DL,Las Vegas Raiders,False,20
+24738,20,Moore II,Kenny,DB,Indianapolis Colts,False,20
+63605,20,Burrow,Joe,QB,Cincinnati Bengals,False,20
+58622,20,Willis,Khari,DB,Indianapolis Colts,False,20
+56212,20,Reid,Justin,DB,Kansas City Chiefs,False,20
+63755,20,Evans,Darrynton,RB,Chicago Bears,False,20
+28213,21,Butker,Harrison,PK,Kansas City Chiefs,False,21
+66935,21,Wilson,Zach,QB,New York Jets,False,21
+56348,21,Simmons,Jeffery,DL,Tennessee Titans,False,21
+46344,21,Bernard,Giovani,RB,Tampa Bay Buccaneers,False,21
+7588,21,Watkins,Sammy,WR,Green Bay Packers,False,21
+47406,21,Hooper,Austin,TE,Tennessee Titans,False,21
+1054,21,Succop,Ryan,PK,Tampa Bay Buccaneers,False,21
+54559,21,Gay,Matt,PK,Los Angeles Rams,False,21
+63618,21,Reagor,Jalen,WR,Philadelphia Eagles,False,21
+31086,21,Williams,Damien,RB,Atlanta Falcons,False,21
+24889,21,Koo,Younghoe,PK,Atlanta Falcons,False,21
+2975,21,Collins Sr.,Jamie,LB,New England Patriots,False,21
+1965,22,Ingram II,Mark,RB,New Orleans Saints,False,22
+63714,22,Highsmith,Alex,LB,Pittsburgh Steelers,False,22
+66958,22,Horn,Jaycee,DB,Carolina Panthers,False,22
+46873,22,Crowder,Jamison,WR,Buffalo Bills,False,22
+17927,22,Ogbah,Emmanuel,DL,Miami Dolphins,False,22
+807,22,Wright,K.J.,LB,Las Vegas Raiders,False,22
+54685,22,Slayton,Darius,WR,New York Giants,False,22
+63763,22,Hamler,KJ,WR,Denver Broncos,False,22
+31350,22,Zuerlein,Greg,PK,New York Jets,False,22
+31857,22,Cobb,Randall,WR,Green Bay Packers,False,22
+18219,22,Campbell,De&#39;Vondre,LB,Green Bay Packers,False,22
+63698,22,Peoples-Jones,Donovan,WR,Cleveland Browns,False,22
+63600,23,Tagovailoa,Tua,QB,Miami Dolphins,False,23
+54624,23,Gaskin,Myles,RB,Miami Dolphins,True,11
+36328,23,Sanders,Jason,PK,Miami Dolphins,False,23
+63628,23,Simmons,Isaiah,LB,Arizona Cardinals,False,23
+63774,23,Gay,Willie,LB,Kansas City Chiefs,False,23
+31422,23,Gould,Robbie,PK,San Francisco 49ers,False,23
+46581,23,Davis,Corey,WR,New York Jets,True,11
+63742,23,Robinson,James,RB,Jacksonville Jaguars,True,11
+1812,23,Ryan,Matt,QB,Indianapolis Colts,False,23
+63738,23,Blankenship,Rodrigo,PK,Indianapolis Colts,False,23
+67256,23,Funk,Jake,RB,Los Angeles Rams,False,23
+47290,23,Davis,Mike,RB,Baltimore Ravens,True,11
